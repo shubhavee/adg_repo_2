@@ -1,0 +1,16 @@
+body{
+  background-color: #72a24b;
+}
+
+.jumbotron{
+  background-color: #f2ebd3;
+}
+
+img{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+h2{
+  text-align: center;
+}
