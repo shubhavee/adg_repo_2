@@ -2,7 +2,7 @@
   "name": "adg_repo_2",
   "version": "1.0.0",
   "description": "",
-  "main": "index.html",
+  "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
